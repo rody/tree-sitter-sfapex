@@ -11,7 +11,7 @@
       }
     ],
     "links": {
-      "repository": "https://github.com/aheber/tree-sitter-sfapex.git"
+      "repository": "https://github.com/aheber/tree-sitter-sfapex"
     }
   },
   "grammars": [
