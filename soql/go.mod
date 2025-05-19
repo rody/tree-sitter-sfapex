@@ -1,4 +1,4 @@
-module github.com/aheber/tree-sitter-sfapex
+module github.com/rody/tree-sitter-sfapex
 
 go 1.22
 
