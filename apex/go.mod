@@ -1,4 +1,4 @@
-module github.com/rody/tree-sitter-sfapex
+module github.com/rody/tree-sitter-sfapex/apex
 
 go 1.22
 
