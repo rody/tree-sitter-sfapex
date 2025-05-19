@@ -3,8 +3,8 @@ package tree_sitter_apex_test
 import (
 	"testing"
 
+	tree_sitter_apex "github.com/rody/tree-sitter-sfapex/apex/bindings/go"
 	tree_sitter "github.com/tree-sitter/go-tree-sitter"
-	tree_sitter_apex "github.com/aheber/tree-sitter-sfapex.git/bindings/go"
 )
 
 func TestCanLoadGrammar(t *testing.T) {
